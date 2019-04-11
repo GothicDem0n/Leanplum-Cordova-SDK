@@ -1,0 +1,28 @@
+{
+  "name": "leanplum-cordova-sdk",
+  "version": "1.0.0",
+  "description": "Wrapper for Cordova integration of Leanplum api SDKs",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GothicDem0n/leanplum-cordova-sdk.git"
+  },
+  "keywords": [
+    "leanplum",
+    "SDK",
+    "Cordova"
+  ],
+  "author": "Ian Foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GothicDem0n/leanplum-cordova-sdk/issues"
+  },
+  "homepage": "https://github.com/GothicDem0n/leanplum-cordova-sdk#readme"
+}
